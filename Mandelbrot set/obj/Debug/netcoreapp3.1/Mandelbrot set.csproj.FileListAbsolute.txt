@@ -1,0 +1,13 @@
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.exe
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.deps.json
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.runtimeconfig.json
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.runtimeconfig.dev.json
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.dll
+D:\C# projects\Mandelbrot set\Mandelbrot set\bin\Debug\netcoreapp3.1\Mandelbrot set.pdb
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.csprojAssemblyReference.cache
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.AssemblyInfoInputs.cache
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.AssemblyInfo.cs
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.csproj.CoreCompileInputs.cache
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.dll
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.pdb
+D:\C# projects\Mandelbrot set\Mandelbrot set\obj\Debug\netcoreapp3.1\Mandelbrot set.genruntimeconfig.cache
