@@ -7,9 +7,17 @@ namespace Mandelbrot_set
     {
         static void Main(string[] args)
         {
-            double xPos = 1;
-            double yPos = 0;
-            int iterations = 1000;
+            double xPos;
+            double yPos;
+            int iterations;
+            bool debugMode = true;
+
+            Console.Write("Enter the x position: ");
+            xPos = double.Parse(Console.ReadLine());
+            Console.Write("Enter the y position: ");
+            yPos = double.Parse(Console.ReadLine());
+            Console.Write("Enter max iterations: ");
+            iterations = int.Parse(Console.ReadLine());
 
             double[] point = new double[2] { xPos, yPos };
             Console.WriteLine(belongsToSet(point, iterations)); //Returns true if number is in set, false if not
